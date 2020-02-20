@@ -1,4 +1,4 @@
-# 第二屆《深度學習與電腦視覺馬拉松》
+# 第二屆《深度學習與電腦視覺馬拉松
 ### 基礎影像處理
 *  DAY1: OpenCV簡介 + 顯示圖片
 *  DAY2: Color Presentation介紹(RGB,LAB,HSV)
